@@ -1,0 +1,9 @@
+# Environment Variables and Configuration
+python-dotenv>=1.0.0
+
+# Google Generative AI
+google-generativeai>=0.3.2
+
+# Web Framework and Server
+Flask>=2.2.0
+gunicorn>=21.2.0
